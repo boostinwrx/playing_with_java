@@ -144,7 +144,7 @@ public class Main {
 //        Type Casting: converting a smaller type to a larger/smaller type size
 
         int byeInt = 8;
-        double NewDouble = byeInt ; // Automatic casting: int to double
+        double myNewDouble = byeInt ; // Automatic casting: int to double
         System.out.println("myNewDouble: " + myNewDouble);      // Outputs 9
 
 
